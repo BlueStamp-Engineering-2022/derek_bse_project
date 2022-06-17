@@ -28,4 +28,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 On my first day, I was almost able to finish my starter project but I accidentally soldered my microcontroller wrong so I had to restart. But I was still able to make some progress in my project once I started over. I learned to pay more attention and be more diligent when soldering. I also learned to not rush as much. On the second day, I finished my starter project entirely. I did the optional challenge and soldered my LEDs at different heights. I Learned to be more patient and to take my time when working.
 
-[![Larson Scanner](https://photos.google.com/u/3/photo/AF1QipNuUaQYiv3fvibmLAPpv6XlQzuJCbrPtEygDU9X)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1655500202/video_to_markdown/images/youtube--adj9DkvaBSU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=adj9DkvaBSU&t=2s ""){:target="_blank" rel="noopener"}
