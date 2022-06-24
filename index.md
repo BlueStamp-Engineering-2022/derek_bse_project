@@ -1,5 +1,5 @@
 ﻿# Tabletop Robot
-The tabletop robot consists of a robot on three wheels with two sensors on its front. The robot will be programmed 
+The tabletop robot consists of a robot on three wheels with two sensors on its front. The robot will be programmed to sense when it is going over the edge of the table. The robot will then back up and change directions. I added a back sensor and a 3D printed frame to my robot.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -13,9 +13,10 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was finishing up my project. I finished the programming for my ir sensors and fixed up my issue with the robot's back wheel. Matthew helped me raise up the wheel using spacers. I programmed the sensors to tell the robot to move backward and turn left when it did not detect the table. Otherwise, if the sensor did detect the table, the robot would continue to move forward. A lot of my wires popped again so I had to reinstall them. I ziptied the wires so that they wouldn't get caught on anything, such as the wheels.
+My second milestone was finishing up my project. I finished the programming for my ir sensors and fixed up my issue with the robot's back wheel. An instructor helped me raise up the wheel using spacers. I programmed the sensors to tell the robot to move backward and turn left when it did not detect the table. Otherwise, if the sensor did detect the table, the robot would continue to move forward. A lot of my wires popped again so I had to reinstall them. I ziptied the wires so that they wouldn't get caught on anything, such as the wheels.
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656089157/video_to_markdown/images/youtube--kskWxn2kmGc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kskWxn2kmGc "Second Milestone")
+
 # First Milestone
 My first milestone was putting together all my hardware and programming my motors. I installed my arduino and the rest of my circuitry, as well as my motors. I had the most fun with this process because I'm pretty big on mechanical engineering. I struggled the most, however, with the electrical engineering aspect of my robot. The wiring was really difficult and I hit a lot of blocks. I also had to brainstorm where to install my battery box because the box I received didn't fit in the area of space that was designated for it in the instructions. Afterwards, I programmed my motors with arduino. 
 
@@ -24,4 +25,4 @@ My first milestone was putting together all my hardware and programming my motor
 # Starter Project; Larson Scanner
 On my first day, I was almost able to finish my starter project but I accidentally soldered my microcontroller wrong so I had to restart. But I was still able to make some progress in my project once I started over. I learned to pay more attention and be more diligent when soldering. I also learned to not rush as much. On the second day, I finished my starter project entirely. I did the optional challenge and soldered my LEDs at different heights. I Learned to be more patient and to take my time when working.
 
-[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1655500202/video_to_markdown/images/youtube--adj9DkvaBSU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=adj9DkvaBSU&t=2s ""){:target="_blank" rel="noopener"}
+[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1655500202/video_to_markdown/images/youtube--adj9DkvaBSU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=adj9DkvaBSU&t=2s "Starter Project")
