@@ -8,7 +8,7 @@ The tabletop robot consists of a robot on three wheels with two sensors on its f
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXLgQl3k0gjQzsoojhs9nWum2gqtpnO_iNBXpzG1hPpVE2UtQwDFYrTKrn1_7zZGEaAc92EWLmzYYr4MgX3zzAfEoKu9vgAyGY-sB2Hb2_SEwv9Knzk8_wyVQ6P3MtSPoLun4S5OwtB-jn70R-U5Ls=s789-no?authuser=0)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone was adding another ir sensor on the back of the robot so it could sense if it was going over the edge when backing up. I also installed four LED's and a breadboard to house all the wiring and resistors. I programmed the LED's so that when the robot is detecting the table, the white LED's stay on. When the robot is over the edge of the table,  the yellow LED's will turn on. I also went through eight different CAD designs for a frame/shell that I would mount on top of the robot.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
